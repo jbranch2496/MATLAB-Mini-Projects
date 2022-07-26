@@ -1,0 +1,6 @@
+Int @(x)sin(x) [-pi,0];
+Der @(x)-cos(x) [-pi,pi];
+Der @(x)x.^2 [-5,5];
+Int @(x)x.^2 [-5,5];
+Der @(x)5*(sin(x).*cos(2*x)) [-pi,pi];
+Int @(x)cos(x) [-pi/2,pi/2];
