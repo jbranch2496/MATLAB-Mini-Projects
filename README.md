@@ -1,2 +1,2 @@
 # MATLAB-Mini-Projects
-Various small projects using MATLAB R2022A
+Project code for various small projects using MATLAB R2022A
